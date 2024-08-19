@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋![bb](https://github.com/user-attachments/assets/4b197244-abeb-4248-a800-38a962a445ec)
+
 I'm Biliqis
 
 - 🔭 living life
