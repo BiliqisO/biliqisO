@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm Biliqis
 
+- 🔭 living life
+- 🤔 reading 
+- 🌱 building to learn. 
 <!--
 **BiliqisO/biliqisO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
